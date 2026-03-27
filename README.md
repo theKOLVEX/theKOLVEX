@@ -20,10 +20,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
----
-
-## 📊 GitHub Stats
-![KOLVEX's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKOLVEX&show_icons=true&theme=radical)
 
 ---
 
